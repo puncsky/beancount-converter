@@ -1,8 +1,6 @@
-[![CircleCI](https://circleci.com/gh/puncsky/typescript-starter.svg?style=svg)](https://circleci.com/gh/puncsky/typescript-starter)
+# beancount csv converter
 
-# typescript-starter
-
-A simplistic typescript boilerplate using babel, tslint, ava, and CircleCI.
+Converter(s) used in https://beancount.io/converter
 
 ```bash
 nvm use 10.15.1
